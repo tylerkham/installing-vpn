@@ -13,13 +13,11 @@ In this tutorial, we will install a VPN on a Azure Virtual Machine from scratch 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- NordVPN or any VPN software
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
 
 <h2>High-Level Steps</h2>
 
